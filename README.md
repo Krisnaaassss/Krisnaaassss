@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krisna Luciano Siburian</h1>
-<h3 align="center">✌️ I am an informatics engineering student at Semarang State University who is interested in Front-End Development, Back-End Development, and Mobile Developer</h3>
+<h3 align="center">✌️ I am an informatics engineering student at Semarang State University who is interested in Front-End Development and Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisnaaassss&label=Profile%20views&color=0e75b6&style=flat" alt="krisnaaassss" /> </p>
 
