@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krisna Luciano Siburian</h1>
-<h3 align="center">✌️ I am an informatics engineering student at Semarang State University who is interested in Front-End Development and Mobile Developer</h3>
+<h3 align="center">✌️ Hi, my name is Krisna Luciano Siburian, you can call me Krisna, I am who is interested and highly motivated in leadership, teamwork, and has a high initiative to seek leadership. leadership, teamwork, and have a high initiative to seek new challenges, I am a person who likes to learn new things and have a good sense of humor. new challenges, I am a person who likes to learn new things and never gives up in the face of something. give up in the face of something. I have various skills in the field of information technology such as Mobile Development and Front-End Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisnaaassss&label=Profile%20views&color=0e75b6&style=flat" alt="krisnaaassss" /> </p>
 
