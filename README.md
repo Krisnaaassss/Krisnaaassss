@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Krisna and I am highly motivated in leadership, teamwork, and have a strong initiative to seek new challenges. I enjoy learning new things and never give up when facing difficulties. My expertise lies in Mobile Development and Front-End Development</h2>
+<h2 align="center">Hi 👋! My name is Krisna and I am highly motivated in leadership, teamwork, and have a strong initiative to seek new challenges. I enjoy learning new things and never give up when facing difficulties. My expertise lies in Mobile Development and Front-End Development</h2>
 
 ###
 
