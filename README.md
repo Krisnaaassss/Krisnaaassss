@@ -1,9 +1,8 @@
-<h2 align="center">Hi 👋! My name is Krisna and I am highly motivated in leadership, teamwork, and have a strong initiative to seek new challenges. I enjoy learning new things and never give up when facing difficulties. My expertise lies in Mobile Development and Front-End Development</h2>
+<h2 align="left">Hi 👋! My name is Krisna and I am highly motivated in leadership, teamwork, and have a strong initiative to seek new challenges. I enjoy learning new things and never give up when facing difficulties. My expertise lies in Mobile Development and Front-End Development</h2>
 
 ###
 
-<h4 align="center">My Portfolio Website: <a href="https://krisnaluciano.vercel.app" target="_blank">krisnaluciano.vercel.app</a></h4>
-
+<h4 align="left">My Portfolio Website: krisnaluciano.vercel.app</h4>
 
 ###
 
@@ -40,15 +39,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
   <img width="12" />
@@ -67,6 +66,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 </div>
 
 ###
